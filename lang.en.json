@@ -1,7 +1,7 @@
 {
     "data": {
         "aboutMe": {
-            "myGitHub": "Follow me on GitHub at {{COM:links.github}}!"
+            "footer": "Created by Decqle ©"
         }
     },
     "refs": {}
