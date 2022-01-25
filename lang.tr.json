@@ -1,0 +1,42 @@
+{
+    "data": {
+        "commands": {
+            "memetitle": "Harika Meme'ler",
+
+            "pingmessage": "🏓 Gecikme: {{firstms}}ms. API gecikmesi: {{secondms}}ms",
+
+            "adminpermerr": "Bunun için yetkin yok, İhtiyacın olan yetki seviyesi: Administrator",
+            
+            "economysetsuccess": "Bakiye ayarlandı: {{amount}}",
+
+            "economyaddtitle": "Bakiye eklendi!",
+
+            "economybalwalletfield": "Cüzdan:",
+
+            "economybalbankfield": "Banka:",
+
+            "economybaltitle": "Bakiye",
+
+            "isitdowndownmsg": "Aşağı",
+
+            "isitdownupmsg": "Yukarı",
+
+            "isitdowntitleseperator": "is",
+
+            "isitdownnotexistmsg": "Alan adı geçersiz.",
+
+            "infotitleinfostring": "Bilgi:",
+
+            "infoguildcount": "Lonca Sayısı:",
+
+            "infousercount": "Kullanıcı Sayısı:",
+
+            "infochannelcount": "Kanal Sayısı:",
+
+            "infoshardid": "Kırık ID:",
+
+            "notinoperation": "Bu komut şu anda kullanılamıyor!"
+        }
+    },
+    "refs": {}
+}
