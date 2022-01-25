@@ -1,7 +1,41 @@
 {
     "data": {
-        "aboutMe": {
-            "footer": "Created by Decqle ©"
+        "commands": {
+            "memetitle": "Epic memes",
+
+            "pingmessage": "🏓 Latency is {{firstms}}ms. API Latency is {{secondms}}ms",
+
+            "adminpermerr": "You dont have permission to do this, You need: Administrator",
+            
+            "economysetsuccess": "Balance set: {{amount}}",
+
+            "economyaddtitle": "Balance added!",
+
+            "economybalwalletfield": "Wallet:",
+
+            "economybalbankfield": "Bank:",
+
+            "economybaltitle": "Balance",
+
+            "isitdowndownmsg": "down",
+
+            "isitdownupmsg": "up",
+
+            "isitdowntitleseperator": "is",
+
+            "isitdownnotexistmsg": "Domain does not exist.",
+
+            "infotitleinfostring": "info:",
+
+            "infoguildcount": "Guild Count:",
+
+            "infousercount": "User Count:",
+
+            "infochannelcount": "Channel Count:",
+
+            "infoshardid": "Shard ID:",
+
+            "notinoperation": "This command is not in operation at the moment!"
         }
     },
     "refs": {}
