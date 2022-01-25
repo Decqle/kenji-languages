@@ -35,7 +35,9 @@
 
             "infoshardid": "Kırık ID:",
 
-            "notinoperation": "Bu komut şu anda kullanılamıyor!"
+            "notinoperation": "Bu komut şu anda kullanılamıyor!",
+            
+            "languageset": "Dil ayarlandı!"
         }
     },
     "refs": {}
