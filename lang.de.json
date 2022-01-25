@@ -35,7 +35,9 @@
 
             "infoshardid": "Scherbe ID:",
 
-            "notinoperation": "Dieser Befehl ist im Moment nicht in Betrieb!"
+            "notinoperation": "Dieser Befehl ist im Moment nicht in Betrieb!",
+            
+            "languageset": "Sprache eingestellt!"
         }
     },
     "refs": {}
