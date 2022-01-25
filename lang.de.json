@@ -1,0 +1,42 @@
+{
+    "data": {
+        "commands": {
+            "memetitle": "Epische memes",
+
+            "pingmessage": "🏓 Latenz ist {{firstms}}ms. API Latenz ist {{secondms}}ms",
+
+            "adminpermerr": "Sie haben nicht die Erlaubnis das zu machen, sie brauchen: Administrator",
+            
+            "economysetsuccess": "Konstostand geändert: {{amount}}",
+
+            "economyaddtitle": "Konstostand hinzugefügt!",
+
+            "economybalwalletfield": "Brieftasche:",
+
+            "economybalbankfield": "Bank:",
+
+            "economybaltitle": "Kontostand",
+
+            "isitdowndownmsg": "runter",
+
+            "isitdownupmsg": "hoch",
+
+            "isitdowntitleseperator": "ist",
+
+            "isitdownnotexistmsg": "Domain existiert nicht.",
+
+            "infotitleinfostring": "Info:",
+
+            "infoguildcount": "Anzahl Gilden:",
+
+            "infousercount": "Anzahl User:",
+
+            "infochannelcount": "Anzahl Kanäle:",
+
+            "infoshardid": "Scherbe ID:",
+
+            "notinoperation": "Dieser Befehl ist im Moment nicht in Betrieb!"
+        }
+    },
+    "refs": {}
+}
