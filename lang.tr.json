@@ -38,6 +38,22 @@
             "notinoperation": "Bu komut şu anda kullanılamıyor!",
             
             "languageset": "Dil ayarlandı!"
+            
+            "premiumtokenstitle": "Jetonların: {{amt}}",
+
+            "cancel": "İptal",
+
+            "confirm": "Onay",
+
+            "redeempremconfirm": "Bu sunucuda premium aktifleştirmek istediğine emin misin?",
+
+            "premnotenoughtokens": "Bunun için yeterince jetonun yok, {{tokens}} tane jetona ihtiyacın var!",
+
+            "premcancel": "Sen bilirsin, işlem iptal edildi!",
+
+            "premsuccess": "Başarılı! {{plan}} planın {{days}} gün için aktifleştirildi!",
+
+            "premalreadygot": "Bu sunucuda zaten premium var!"
         }
     },
     "refs": {}
