@@ -38,6 +38,22 @@
             "notinoperation": "Bu komut şu anda kullanılamıyor!",
             
             "languageset": "Dil ayarlandı!"
+			
+            "premiumtokenstitle": "Tokenleriniz: {{amt}}",
+
+            "cancel": "İptal",
+
+            "confirm": "Onayla",
+
+            "redeempremconfirm": "Bu sunucuda premium kullanmak istediğinizden emin misiniz?",
+
+            "premnotenoughtokens": "Bunun için yeterli tokeniniz yok, {{tokens}} tokene ihtiyacınız var!",
+
+            "premcancel": "Tamam, işlem iptal edilmiştir!",
+
+            "premsuccess": "Başarılı! {{plan}} planınız {{days}} gün için uygulanmıştır!",
+
+            "premalreadygot": "Bu sunucunun zaten premiumu var!"
         }
     },
     "refs": {}
