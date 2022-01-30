@@ -37,7 +37,23 @@
 
             "notinoperation": "This command is not in operation at the moment!",
 
-            "languageset": "Language set!"
+            "languageset": "Language set!",
+
+            "premiumtokenstitle": "Your tokens: {{amt}}",
+
+            "cancel": "Cancel",
+
+            "confirm": "Confirm",
+
+            "redeempremconfirm": "Are you sure you want to redeem premium on this server?",
+
+            "premnotenoughtokens": "You dont have enough tokens for this, You need {{tokens}} tokens!",
+
+            "premcancel": "Okay, The process has been cancelled!",
+
+            "premsuccess": "Success! Your {{plan}} plan has been applied for {{days}} days!",
+
+            "premalreadygot": "This server already has premium!"
         }
     },
     "refs": {}
